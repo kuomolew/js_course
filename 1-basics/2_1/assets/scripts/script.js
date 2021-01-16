@@ -27,3 +27,4 @@ console.log(fictionalInput);
 console.log(result);
 
 // 2 - 14.2
+
