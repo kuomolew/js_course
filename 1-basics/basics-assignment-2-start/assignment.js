@@ -12,7 +12,7 @@ function showThreeStrings(text1, text2, text3) {
     console.log(`${text1} ${text2} ${text3}`);
 }
 
-showHello()
+// showHello()
 showMyText('hello 2')
 showThreeStrings('How', 'are', 'you?')
 
